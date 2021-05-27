@@ -1,0 +1,20 @@
+C:\Users\olgun\OneDrive\Masaüstü\Card Game\Card Game\bin\Debug\Card Game.exe.config
+C:\Users\olgun\OneDrive\Masaüstü\Card Game\Card Game\bin\Debug\Card Game.exe
+C:\Users\olgun\OneDrive\Masaüstü\Card Game\Card Game\bin\Debug\Card Game.pdb
+C:\Users\olgun\OneDrive\Masaüstü\Card Game\Card Game\obj\Debug\Card Game.csprojAssemblyReference.cache
+C:\Users\olgun\OneDrive\Masaüstü\Card Game\Card Game\obj\Debug\Card_Game.Form1.resources
+C:\Users\olgun\OneDrive\Masaüstü\Card Game\Card Game\obj\Debug\Card_Game.Properties.Resources.resources
+C:\Users\olgun\OneDrive\Masaüstü\Card Game\Card Game\obj\Debug\Card Game.csproj.GenerateResource.cache
+C:\Users\olgun\OneDrive\Masaüstü\Card Game\Card Game\obj\Debug\Card Game.csproj.CoreCompileInputs.cache
+C:\Users\olgun\OneDrive\Masaüstü\Card Game\Card Game\obj\Debug\Card Game.exe
+C:\Users\olgun\OneDrive\Masaüstü\Card Game\Card Game\obj\Debug\Card Game.pdb
+C:\Users\olgun\OneDrive\Masaüstü\Card Game\Card Game\Card Game\bin\Debug\Card Game.exe.config
+C:\Users\olgun\OneDrive\Masaüstü\Card Game\Card Game\Card Game\bin\Debug\Card Game.exe
+C:\Users\olgun\OneDrive\Masaüstü\Card Game\Card Game\Card Game\bin\Debug\Card Game.pdb
+C:\Users\olgun\OneDrive\Masaüstü\Card Game\Card Game\Card Game\obj\Debug\Card Game.csprojAssemblyReference.cache
+C:\Users\olgun\OneDrive\Masaüstü\Card Game\Card Game\Card Game\obj\Debug\Card_Game.Form1.resources
+C:\Users\olgun\OneDrive\Masaüstü\Card Game\Card Game\Card Game\obj\Debug\Card_Game.Properties.Resources.resources
+C:\Users\olgun\OneDrive\Masaüstü\Card Game\Card Game\Card Game\obj\Debug\Card Game.csproj.GenerateResource.cache
+C:\Users\olgun\OneDrive\Masaüstü\Card Game\Card Game\Card Game\obj\Debug\Card Game.csproj.CoreCompileInputs.cache
+C:\Users\olgun\OneDrive\Masaüstü\Card Game\Card Game\Card Game\obj\Debug\Card Game.exe
+C:\Users\olgun\OneDrive\Masaüstü\Card Game\Card Game\Card Game\obj\Debug\Card Game.pdb
